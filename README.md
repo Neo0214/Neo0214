@@ -4,8 +4,10 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Little-Data/Little-Data/output/github-contribution-grid-snake.svg" />
 </picture> 
 
-![Neo0214's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neo0214&show_icons=true&theme=radical)
+![Neo0214's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neo0214&count_private=true&show_icons=true&theme=cobalt)
 
-![Neo0214's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Neo0214&show_icons=true&count_private=true&theme=gotham)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Sanitäter+in+Battlefield;is+trying+to+commit+at+github)
+
+
 
 
